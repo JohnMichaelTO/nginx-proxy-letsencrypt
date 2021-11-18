@@ -25,5 +25,5 @@ networks:
   other_network:
   backend:
     external: true
-    name: nginxproxy-letsencrypt_backend
+    name: nginx-proxy-letsencrypt_backend
 ```
